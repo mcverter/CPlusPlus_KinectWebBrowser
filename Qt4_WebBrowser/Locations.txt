@@ -1,0 +1,35 @@
+Back  (10,10) (50,10)  BACK:   QRect(9,9 44x32) 
+Fwd   (60, 10) (100,10)  FWD:   QRect(59,9 44x32) 
+Home   (110, 10)  (150 ,10) HOME:   QRect(109,9 44x32) 
+History (160, 10) (200,10) HISTORY:   QRect(159,9 44x32) 
+Reoad (210, 10) (250,10)  RELOAD:   QRect(209,9 44x32) 
+Address  260  615  ADDRESS BAR:   QRect(259,10 360x29) 
+Go  625 665  GO:   QRect(625,9 44x32) 
+
+
+Click the UL of RELOAD
+x is  211  y is   7 
+GLOBALLY, this is  QPoint(553,107) 
+RELOAD:   QRect(209,9 44x32) 
+
+x is  208  y is   10 
+GLOBALLY, this is  QPoint(550,110) 
+RELOAD:   QRect(209,9 44x32) 
+
+
+IN FUNCTION  BROWSER TAB PROCESS KINECT MOUSE:   572    127 
+RELOAD
+Global : UL:   QPoint(760,118)    UR:  QPoint(803,149) 
+Corners in parent:  QPoint(418,18)    QPoint(461,49) 
+QPoint(230,27) 
+point= ( 572 ,  127 )  QPushButton   QPoint(760,118)    QPoint(803,149) 
+
+HOME
+Kinect:   572    127 
+Global : UL:   QPoint(560,118)   UR:  QPoint(603,149) 
+Thee Kinect is in the hoooooooome  
+Corners in parent:  QPoint(18,18)    QPoint(61,49)   C-c C-c
+dsion@Curiomotion-Mit:~/curio_mitchell/Qt5OnlyBrowser$ 
+
+
+
